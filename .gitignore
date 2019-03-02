@@ -108,4 +108,4 @@ venv.bak/
 
 #virtual venv
 chatbot/
-chatbot-linux/
+venv/
